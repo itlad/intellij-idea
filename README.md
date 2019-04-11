@@ -1,4 +1,4 @@
-# intellij-idea 配置
+# IntelliJ IDEA 配置
 
 开发人员天天都要面对 IDE 工具（能用记事本加编译软件大神级别的除外），就比如我现在从事 Java 开发工作，天天要面对 [IntelliJ IDEA](https://www.jetbrains.com/idea/)   
 <img src="https://raw.githubusercontent.com/itlad/intellij-idea/master/.assets/idea.png" alt="IntelliJ IDEA" width="111"/>  
